@@ -7,10 +7,10 @@
 ); ?>
 <table>
     <tr>
-        <th>Id</th>
-        <th>Title</th>
-        <th>Actions</th>
-        <th>Created</th>
+        <th>あいでぃーーーーーーー</th>
+        <th>タイトル</th>
+        <th>あくしょん</th>
+        <th>くりえいと</th>
     </tr>
 
     <!-- ここから、$posts配列をループして、投稿記事の情報を表示 -->
